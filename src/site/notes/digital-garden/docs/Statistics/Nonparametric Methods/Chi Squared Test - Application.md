@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/docs/statistics/nonparametric-methods/chi-squared-test-application/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/digital-garden/docs/statistics/nonparametric-methods/chi-squared-test-application/"}
 ---
 
 
