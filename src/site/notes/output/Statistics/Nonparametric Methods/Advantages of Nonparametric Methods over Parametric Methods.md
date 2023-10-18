@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/output/statistics/nonparametric-methods/advantages-of-nonparametric-methods-over-parametric-methods/"}
+{"dg-publish":true,"permalink":"/output/statistics/nonparametric-methods/advantages-of-nonparametric-methods-over-parametric-methods/","tags":["gardenEntry"]}
 ---
 
 
